@@ -9,7 +9,7 @@
 ### Install
 
 ``` bash
-$ git clone https://github.com/zhangyingwei/hexo-theme-box.git themes/box
+$ git clone https://github.com/zhangyingwei/minos.git themes/minos
 ```
 
 **Box requires Hexo 3.0 and above.**
@@ -34,7 +34,6 @@ menu:
   主页: /
   归档: archives
   分类: categories
-  标签云: tags
   关于我: about
 
 # Content
